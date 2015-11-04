@@ -1,0 +1,2 @@
+# my_little_data
+This project develops and shares software and a safety-oriented process for retrieving personal data, securing and exploring it, and identifying the tools and insights that will allow less technical users to start preserving and cultivating their data identities - freedoms that may even change why people put data onto platforms and extend how they engage with it once they realize the ways in which data tells stories. 
